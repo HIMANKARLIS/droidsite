@@ -1,1 +1,1 @@
-This is my first projject on github. A parsonal website. Chancgess made to dis will
+This is my first project on github. A personal website.
